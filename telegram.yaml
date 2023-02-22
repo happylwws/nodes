@@ -1,10 +1,10 @@
 proxies:
-  - {name: (已存活1天)香港-2.14MB/s(Youtube:不良林), server: 47.242.69.245, port: 23312, type: vmess, uuid: 94cca229-5e17-4f35-9b49-fe113e142c75, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/]}, udp: true}
-  - {name: 中国-683.3KB/s(Youtube:不良林), server: hnm.xiaohouzi.club, port: 16082, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: nh-hinet06.xiaohouzi.club, skip-cert-verify: true, udp: true}
-  - {name: 香港-431.7KB/s(Youtube:不良林), server: awshk4-tg-data.amazonwebservicess.com, port: 443, type: trojan, password: 2b5e3082-f3b5-43da-a3d1-38bb6ac1bf64, sni: data.amazonwebservicess.com, skip-cert-verify: true, udp: true}
-  - {name: 韩国-3.12MB/s(Youtube:不良林), server: a3.wzr905.ml, port: 80, type: vmess, uuid: f63dff77-c865-4f4d-bfa0-bef0597f6da4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: 7932, headers: {Host: a3.wzr905.ml}}, udp: true}
-  - {name: 意大利-1.93MB/s(Youtube:不良林), server: 129.152.13.117, port: 11691, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path, headers: {Host: YTB-awkj}}, udp: true}
-  - {name: 加拿大-878.6KB/s(Youtube:不良林), server: 51.161.118.38, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 加拿大-782.1KB/s(Youtube:不良林), server: 51.161.118.38, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 加拿大-421.4KB/s(Youtube:不良林), server: 51.161.118.38, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: 加拿大-727.8KB/s(Youtube:不良林), server: 51.161.118.38, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: 美国-308.7KB/s(Youtube:不良林), server: 155.248.193.254, port: 31853, type: trojan, password: jKRJgS7uvI, skip-cert-verify: true, udp: true}
+  - {name: 中国-2.24MB/s(Youtube:不良林), server: zz1.sb520.xyz, port: 13001, type: ss, cipher: chacha20-ietf-poly1305, password: a17998e8-35a6-4aab-8238-e3010af5bfad, udp: true}
+  - {name: 中国-2.77MB/s(Youtube:不良林), server: v02.gutingting.com, port: 30054, type: trojan, password: b504c643-d081-4c90-8f50-9b0bf0b0902d, sni: v1jp01.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: 英国-2.18MB/s(Youtube:不良林), server: 35.177.137.88, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trj.rollingnext.co.uk, skip-cert-verify: true, udp: true}
+  - {name: 中国-2.33MB/s(Youtube:不良林), server: v01.gutingting.com, port: 30048, type: vmess, uuid: 24e92c43-55bc-4cf1-84a1-3ccb01db11a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh02.fastcloud.club}}, udp: true}
+  - {name: 中国-2.79MB/s(Youtube:不良林), server: v01.gutingting.com, port: 30027, type: vmess, uuid: 8d7ede76-79b2-4007-ba40-cb3cdaadf21a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
+  - {name: 中国-2.18MB/s(Youtube:不良林), server: v02.gutingting.com, port: 30057, type: trojan, password: 865b3ca3-0f12-43e3-b0e8-32e1dd4562bd, sni: v1kr02.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: 中国-4.41MB/s(Youtube:不良林), server: v01.gutingting.com, port: 30056, type: trojan, password: 865b3ca3-0f12-43e3-b0e8-32e1dd4562bd, sni: v1kr01.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: 中国-2.78MB/s(Youtube:不良林), server: v02.gutingting.com, port: 30052, type: trojan, password: 24e92c43-55bc-4cf1-84a1-3ccb01db11a3, sni: v2th01.fuqiangren.com, skip-cert-verify: true, udp: true}
