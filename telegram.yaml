@@ -1,1 +1,10 @@
-Invalid request!
+proxies:
+  - {name: 中国-364.7KB/s(Youtube:不良林), server: 14.29.124.168, port: 24004, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: 中国-1.97MB/s(Youtube:不良林), server: v02.gutingting.com, port: 30000, type: vmess, uuid: e03ae205-2ba4-46fd-ac57-2cd1a7b60d57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
+  - {name: (已存活1天)美国-3.02MB/s(Youtube:不良林), server: 158.101.7.73, port: 11176, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path}, udp: true}
+  - {name: 中国-6.48MB/s(Youtube:不良林), server: gdcm.r1u.cn, port: 30427, type: trojan, password: a4955acf-b475-47b5-8c63-8574fee2a2e3, sni: wel-sg.optage.moe, skip-cert-verify: true, udp: true}
+  - {name: 亚美尼亚-1.86MB/s(Youtube:不良林), server: 185.162.228.230, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /A2DJOPFT, headers: {Host: lg10.cfcdn1.xyz}}, udp: true}
+  - {name: 中国-2.50MB/s(Youtube:不良林), server: v01.gutingting.com, port: 30027, type: vmess, uuid: 802385b0-bdfc-4502-a0ed-c14f34ecf27d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
+  - {name: 中国-3.61MB/s(Youtube:不良林), server: v01.gutingting.com, port: 30056, type: trojan, password: 5a30b219-6343-4751-80a8-34b14265bee1, sni: v1kr01.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: 中国-2.22MB/s(Youtube:不良林), server: v02.gutingting.com, port: 30057, type: trojan, password: e03ae205-2ba4-46fd-ac57-2cd1a7b60d57, sni: v1kr02.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: 中国-1011.4KB/s(Youtube:不良林), server: v02.gutingting.com, port: 30053, type: trojan, password: 802385b0-bdfc-4502-a0ed-c14f34ecf27d, sni: v2phl01.fuqiangren.com, skip-cert-verify: true, udp: true}
