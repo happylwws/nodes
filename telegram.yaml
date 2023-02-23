@@ -1,10 +1,1 @@
-proxies:
-  - {name: 中国-7.94MB/s(Youtube:不良林), server: gdcm.r1u.cn, port: 30427, type: trojan, password: a4955acf-b475-47b5-8c63-8574fee2a2e3, sni: wel-sg.optage.moe, skip-cert-verify: true, udp: true}
-  - {name: 香港-309.2KB/s(Youtube:不良林), server: 103.117.101.104, port: 51298, type: vmess, uuid: 899c4e65-4129-4e9b-f65f-058f469bdd90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /789}, udp: true}
-  - {name: 中国-3.65MB/s(Youtube:不良林), server: gdcm.r1u.cn, port: 32961, type: trojan, password: a4955acf-b475-47b5-8c63-8574fee2a2e3, sni: wel-tw.optage.moe, skip-cert-verify: true, udp: true}
-  - {name: 美国-3.70MB/s(Youtube:不良林), server: 172.67.199.34, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: lu.sharecentre.online}}, udp: true}
-  - {name: 韩国-214.5KB/s(Youtube:不良林), server: 152.67.218.216, port: 17992, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path}, udp: true}
-  - {name: 意大利-1.53MB/s(Youtube:不良林), server: 129.152.13.117, port: 11691, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path, headers: {Host: 129.152.13.117}}, udp: true}
-  - {name: 香港-377.2KB/s(Youtube:不良林), server: cdn.hkhkt.6641634715834932.me, port: 80, type: vmess, uuid: a4955acf-b475-47b5-8c63-8574fee2a2e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wel/10, headers: {Host: wangsu.com}}, udp: true}
-  - {name: 美国-790.6KB/s(Youtube:不良林), server: vus3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /chat, headers: {Host: vus3.0bad.com}}, udp: true}
-  - {name: 中国-501.8KB/s(Youtube:不良林), server: 223.111.202.139, port: 63086, type: vmess, uuid: 9a5dc02b-8adc-3529-9163-ab690f38fbb6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /mugua, headers: {Host: jp-balancer.myn1des.com}}, udp: true}
+Invalid request!
