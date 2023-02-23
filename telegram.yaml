@@ -1,8 +1,8 @@
 proxies:
-  - {name: 美国-2.80MB/s(Youtube:不良林), server: 148.59.74.185, port: 443, type: trojan, password: 55dcfe9f-b4b7-4b8b-9dee-b247cf0af2da, sni: pcd462233.netvigator.com, skip-cert-verify: true, udp: true}
-  - {name: 中国-4.42MB/s(Youtube:不良林), server: scloud12.jafiyun.world, port: 22012, type: trojan, password: 4e719610-45b0-394e-8684-276cd90c6f93, sni: scloud12.jafiyun.world, skip-cert-verify: true, udp: true}
-  - {name: 未知国家-310.0KB/s(Youtube:不良林), server: us-1.free.yuji2022.gq, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vAambj4DgXrs5sfCFptMk, headers: {Host: us-1.free.yuji2022.gq}}, udp: true}
+  - {name: 香港-1.93MB/s(Youtube:不良林), server: cdn.hkhkbn.6641634715834932.me, port: 80, type: vmess, uuid: a4955acf-b475-47b5-8c63-8574fee2a2e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wel/23, headers: {Host: wangsu.com}}, udp: true}
   - {name: 中国-282.8KB/s(Youtube:不良林), server: hnm.xiaohouzi.club, port: 18831, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: avas01.xiaohouzi.club, skip-cert-verify: true, udp: true}
-  - {name: 香港-2.69MB/s(Youtube:不良林), server: cdn.hkhkbn.6641634715834932.me, port: 80, type: vmess, uuid: a4955acf-b475-47b5-8c63-8574fee2a2e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wel/23, headers: {Host: wangsu.com}}, udp: true}
-  - {name: 美国-1.09MB/s(Youtube:不良林), server: 34.210.24.64, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: 新加坡-2.07MB/s(Youtube:不良林), server: 13.229.224.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 美国-2.80MB/s(Youtube:不良林), server: 148.59.74.185, port: 443, type: trojan, password: 55dcfe9f-b4b7-4b8b-9dee-b247cf0af2da, sni: pcd462233.netvigator.com, skip-cert-verify: true, udp: true}
+  - {name: 日本-4.01MB/s(Youtube:不良林), server: 20.222.228.18, port: 443, type: trojan, password: 23b8d4b9-be04-471d-b6cb-a57caab85750, sni: vzwzasc.cn, skip-cert-verify: true, udp: true}
+  - {name: 印度-916.7KB/s(Youtube:不良林), server: 152.67.161.155, port: 17355, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path, headers: {Host: 152.67.161.155}}, udp: true}
+  - {name: 新加坡-772.6KB/s(Youtube:不良林), server: 13.229.224.224, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: 韩国-214.5KB/s(Youtube:不良林), server: 152.67.218.216, port: 17992, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path}, udp: true}
