@@ -1,10 +1,1 @@
-proxies:
-  - {name: 塞浦路斯-1.15MB/s(Youtube:不良林), server: 203.24.108.10, port: 443, type: vmess, uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /A2DJOPFT, headers: {Host: lg10.cfcdn1.xyz}}, udp: true}
-  - {name: 美国-787.7KB/s(Youtube:不良林), server: 148.59.74.186, port: 443, type: trojan, password: 55dcfe9f-b4b7-4b8b-9dee-b247cf0af2da, sni: pcd462233.netvigator.com, skip-cert-verify: true, udp: true}
-  - {name: 美国-1.38MB/s(Youtube:不良林), server: 148.59.74.185, port: 443, type: trojan, password: 55dcfe9f-b4b7-4b8b-9dee-b247cf0af2da, sni: pcd462233.netvigator.com, skip-cert-verify: true, udp: true}
-  - {name: 中国-1.93MB/s(Youtube:不良林), server: cs.guanguan.club, port: 12829, type: vmess, uuid: 6cde68e5-59bf-4ed8-b110-b9464dfa3826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cs.guanguan.club}}, udp: true}
-  - {name: 日本-966.2KB/s(Youtube:不良林), server: 20.78.72.90, port: 443, type: trojan, password: 23b8d4b9-be04-471d-b6cb-a57caab85750, sni: vzwzasc.cn, skip-cert-verify: true, udp: true}
-  - {name: 英国-405.5KB/s(Youtube:不良林), server: gb-ls03.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /clientarea, headers: {Host: gb-ls03.nb1.fr}}, udp: true}
-  - {name: 亚美尼亚-2.03MB/s(Youtube:不良林), server: 185.162.228.228, port: 443, type: vmess, uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ECTCJ0DF, headers: {Host: lg1.trump2023.us}}, udp: true}
-  - {name: 美国-1.88MB/s(Youtube:不良林), server: 172.67.169.131, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /AUIKN8AU, headers: {Host: oplg1.cfcdn2.xyz}}, udp: true}
-  - {name: 伯利兹-1.53MB/s(Youtube:不良林), server: 203.30.191.7, port: 443, type: vmess, uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /AUIKN8AU, headers: {Host: oplg1.cfcdn2.xyz}}, udp: true}
+Invalid request!
