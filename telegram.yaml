@@ -1,10 +1,1 @@
-proxies:
-  - {name: 中国-3.52MB/s(Youtube:不良林), server: cs.guanguan.club, port: 12829, type: vmess, uuid: 6cde68e5-59bf-4ed8-b110-b9464dfa3826, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: cs.guanguan.club}}, udp: true}
-  - {name: 美国-564.2KB/s(Youtube:不良林), server: gb.free.yuji2022.gq, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hL4SnGmR6jDw2R8zjSmeT, headers: {Host: gb.free.yuji2022.gq}}, udp: true}
-  - {name: 中国-1.95MB/s(Youtube:不良林), server: ns01.gutingting.com, port: 30009, type: vmess, uuid: 4653c56a-e62a-44da-bd70-a0c6a3d0fab0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
-  - {name: 日本-9.05MB/s(Youtube:不良林), server: 20.78.72.90, port: 443, type: trojan, password: 23b8d4b9-be04-471d-b6cb-a57caab85750, sni: vzwzasc.cn, skip-cert-verify: true, udp: true}
-  - {name: 中国-4.42MB/s(Youtube:不良林), server: scloud12.jafiyun.world, port: 22012, type: trojan, password: 4e719610-45b0-394e-8684-276cd90c6f93, sni: scloud12.jafiyun.world, skip-cert-verify: true, udp: true}
-  - {name: 中国-3.42MB/s(Youtube:不良林), server: scloud54.jafiyun.world, port: 22054, type: trojan, password: 4e719610-45b0-394e-8684-276cd90c6f93, sni: scloud54.jafiyun.world, skip-cert-verify: true, udp: true}
-  - {name: 印度-2.46MB/s(Youtube:不良林), server: 152.67.161.155, port: 17355, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ws-path, headers: {Host: 152.67.161.155}}, udp: true}
-  - {name: 未知国家-1.94MB/s(Youtube:不良林), server: www.furbbs.top, port: 443, type: trojan, password: ef18607c, skip-cert-verify: true, udp: true}
-  - {name: 中国-2.76MB/s(Youtube:不良林), server: gdcm.r1u.cn, port: 32961, type: trojan, password: a4955acf-b475-47b5-8c63-8574fee2a2e3, sni: wel-pk.optage.moe, skip-cert-verify: true, udp: true}
+Invalid request!
