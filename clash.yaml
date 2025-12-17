@@ -1,9 +1,4 @@
 proxies:
-# 在此粘贴你的节点，格式示例：
-#   - name: 节点名称
-#     type: vless
-#     server: xxx
-#     ...
   - {name: 印度拉跨节点, server: 160.191.28.171, port: 22025, type: vless, uuid: 1dd8f8ae-25dd-410e-85d8-954edcab1fd8, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: 1DR-bRfVUShruqe2mzxharUBVnori2au7xcXDo9okhM}, servername: www.iij.ad.jp, client-fingerprint: firefox, network: tcp, udp: true}
   - {name: 🇹🇼 台湾家宽 05, server: starlink-tw6.2513142.xyz, port: 16301, type: hysteria2, password: AhHzCkdPYtAPtkDrmyffSfAv, auth: AhHzCkdPYtAPtkDrmyffSfAv, sni: www.cloudflare.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南家宽 01, server: gd.bjnet2.com, port: 36606, type: ss, cipher: aes-128-gcm, password: be1c6eab-3d70-4cf0-ae9a-b3175c7dfb47, plugin: obfs, plugin-opts: {mode: http, host: 9962b9147f2651d984febb6ba061f477.baidu.com}, udp: true}
