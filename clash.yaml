@@ -1,0 +1,2 @@
+proxies:
+  - {name: CF优选-电信, server: 162.159.32.1, port: 443, type: vless, uuid: a5d8ce83-176b-4b59-aaa6-081eb764be41, tls: true, tfo: false, skip-cert-verify: true, servername: hz.zdp.cloudns.org, client-fingerprint: random, network: ws, ws-opts: {path: /proxyip=proxyip.fxxk.dedyn.io, headers: {Host: hz.zdp.cloudns.org}}, udp: true}
